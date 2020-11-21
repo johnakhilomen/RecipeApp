@@ -34,5 +34,5 @@ Sample Result 2:
 
 ## Demo
 
-- [Live Demo](https://github.io/recipeapp/)
+- [Live Demo](https://johnakhilomen.github.io/RecipeApp/)
 
